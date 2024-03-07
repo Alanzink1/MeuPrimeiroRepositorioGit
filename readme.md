@@ -21,3 +21,5 @@
 
 # **Git push -  permite que você envie/empurre os commits de sua branch e repositório Git local para o seu repositório remoto.**
 ## git push (url)
+
+[x] Atividade Completa
